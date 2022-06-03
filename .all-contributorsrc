@@ -1,0 +1,60 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "secfb",
+      "name": "Never Mind",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/38748801?v=4",
+      "profile": "https://github.com/secfb",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "mehedi1194",
+      "name": "Mehedi Hasan Remon",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/54717234?v=4",
+      "profile": "https://github.com/mehedi1194",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "alins1r",
+      "name": "alins.ir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67107893?v=4",
+      "profile": "http://alins.ir",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "0xhunster",
+      "name": "Akash Sarkar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46501627?v=4",
+      "profile": "https://0xhunster.github.io",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "cihanmehmet",
+      "name": "Cihan Mehmet DOĞAN (CMD)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7144304?v=4",
+      "profile": "https://twitter.com/cihanmehmets",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "SubEnum",
+  "projectOwner": "bing0o",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
