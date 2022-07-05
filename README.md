@@ -1,11 +1,6 @@
 ## Description:
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 bash script for Subdomain Enumeration using 4 tools and 3 online services, you have to install these tools by yourself to be able to use SubEnum.sh, or use [setup.sh](https://github.com/bing0o/SubEnum/blob/master/setup.sh) script to install them.
-
-![image](img.png)
 
 ### Available Tools and online services:
 
@@ -26,7 +21,7 @@ bash script for Subdomain Enumeration using 4 tools and 3 online services, you h
 to install the dependencies run:
 
 ```bash
-$ git clone https://github.com/bing0o/SubEnum.git
+$ git clone https://github.com/Transmetal/SubEnum-master
 $ cd SubEnum
 $ chmod +x setup.sh
 $ ./setup.sh
