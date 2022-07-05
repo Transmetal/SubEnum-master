@@ -85,36 +85,3 @@ api.target.com
 ..
 ..
 ```
-
-happy hacking!
-
-
-## Spport:
-
-You can support me here:
-
-<a href="https://www.buymeacoffee.com/bing0o" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/secfb"><img src="https://avatars2.githubusercontent.com/u/38748801?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Never Mind</b></sub></a><br /><a href="https://github.com/bing0o/SubEnum/commits?author=secfb" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/mehedi1194"><img src="https://avatars2.githubusercontent.com/u/54717234?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mehedi Hasan Remon</b></sub></a><br /><a href="https://github.com/bing0o/SubEnum/commits?author=mehedi1194" title="Code">💻</a></td>
-    <td align="center"><a href="http://alins.ir"><img src="https://avatars.githubusercontent.com/u/67107893?v=4?s=100" width="100px;" alt=""/><br /><sub><b>alins.ir</b></sub></a><br /><a href="https://github.com/bing0o/SubEnum/commits?author=alins1r" title="Code">💻</a></td>
-    <td align="center"><a href="https://0xhunster.github.io"><img src="https://avatars.githubusercontent.com/u/46501627?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Akash Sarkar</b></sub></a><br /><a href="https://github.com/bing0o/SubEnum/commits?author=0xhunster" title="Code">💻</a></td>
-    <td align="center"><a href="https://twitter.com/cihanmehmets"><img src="https://avatars.githubusercontent.com/u/7144304?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Cihan Mehmet DOĞAN (CMD)</b></sub></a><br /><a href="https://github.com/bing0o/SubEnum/commits?author=cihanmehmet" title="Code">💻</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
